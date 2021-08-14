@@ -1,8 +1,8 @@
 class Tt < Formula
   desc "A terminal based typing test."
-  homepage ""
-  url "https://github.com/lemnos/tt/releases/download/v0.4.0/tt-osx"
-  sha256 "9105fe62dfb8055e572cf3fd90f7565160205639c2fa1e2b82d5fa5416c0e5a2"
+  homepage "https://github.com/lemnos/tt"
+  url "https://github.com/lemnos/tt/releases/download/v0.4.2/tt-osx"
+  sha256 "5d513e7d33b3adf1ecb45b5e11584fa7e2785d631226919c31b2c0f12b287733"
   license "MIT"
 
   def install
