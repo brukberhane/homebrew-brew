@@ -2,7 +2,6 @@ class Pbgopy < Formula
   desc "Copy and paste between devices"
   homepage "https://github.com/nakabonne/pbgopy"
   version "0.3.0"
-  bottle :unneeded
 
   if OS.mac?
     url "https://github.com/nakabonne/pbgopy/releases/download/v0.3.0/pbgopy_0.3.0_darwin_amd64.tar.gz"
