@@ -6,6 +6,6 @@ class Phoneinfoga < Formula
   license "MIT"
 
   def install
-  	bin.install "phoneinfoga"
+    bin.install "phoneinfoga"
   end
 end

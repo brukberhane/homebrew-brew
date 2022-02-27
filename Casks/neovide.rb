@@ -7,6 +7,6 @@ cask "neovide" do
   desc "No Nonsense Neovim Client in Rust"
   homepage "https://github.com/Kethku/neovide"
 
-  app  "Neovide.app"
+  app "Neovide.app"
   binary "#{appdir}/Neovide.app/Contents/Resources/bin/neovide"
 end
