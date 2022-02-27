@@ -17,7 +17,7 @@ class Pbgopy < Formula
   end
   if OS.linux? && Hardware::CPU.arm? && Hardware::CPU.is_64_bit?
     url "https://github.com/nakabonne/pbgopy/releases/download/v0.3.0/pbgopy_0.3.0_linux_arm64.tar.gz"
-    sha256 "5204ae79ef30c46bcf5f7a02274141b3cc6f3395aef9c8957ab4d90c97fe4c0"
+    sha256 "5204a1e79ef30c46bcf5f7a02274141b3cc6f3395aef9c8957ab4d90c97fe4c0"
   end
 
   def install
